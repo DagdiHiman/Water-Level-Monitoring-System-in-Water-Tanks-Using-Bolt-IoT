@@ -1,3 +1,5 @@
+//Code for the product in Bolt Cloud
+
 setChartLibrary('google-chart');
 setChartTitle('Water Level Monitoring !!!');
 setChartType('areaGraph');
