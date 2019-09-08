@@ -14,3 +14,4 @@ Pin definition:
 "S" stand for signal input
 "+" stand for power supply
 "-" stand for GND
+![Himan](https://hackster.imgix.net/uploads/attachments/953705/uploads2ftmp2fbb0acbc0-7877-45d5-bf4e-0a5a70d0d15d2fimg_20190815_2103202-01-01_qMmAK0h0tX.jpeg?auto=compress%2Cformat&w=900&h=675&fit=min "Himan")
