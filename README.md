@@ -1,5 +1,7 @@
 # Water-Level-Monitoring-System-in-Water-Tanks-Using-Bolt-IoT
 
+PROJECT LINK->https://www.hackster.io/dagdih/water-level-monitoring-system-in-water-tanks-using-bolt-iot-4b0ebc
+
 Water Level Monitoring System in Water Tanks can be used in Houses to avoid overflow and wastage of water. In this project, one of the important parts is the High Sensitivity Water Sensor. It is easy to use, light in weight, compact in size, high identification, and detection of water, droplets.
 
 The water sensor has many different applications like sensing of rainfall, leakage of water and water level detection. This sensor works by having a series of exposed mark lines(yellow lines that can be seen in the image above) connected to GND. The sensor has a low resistance resistor. The resistor keeps the sensor value low till the water shorts the sensor.
